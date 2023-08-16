@@ -26,7 +26,7 @@ struct ContentView: View {
                         .font(.custom("Poppins-Thin", size: 18))
                     Spacer()
                         .frame(width: 100.0, height: 100.0)
-                    Text("Example")
+                    Text("Example ")
                     Spacer()
                         .frame(height: 20.0)
                     Text("Example1")
